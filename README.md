@@ -77,7 +77,11 @@ This seeds:
 6. Open **Audit Logs** to show action traceability and governance.
 
 ## Screenshots (Placeholders)
-
+<img width="1868" height="739" alt="Screenshot 2026-05-27 195106" src="https://github.com/user-attachments/assets/78daf294-a998-4424-906e-21f8b9fd1620" />
+<img width="1868" height="739" alt="Screenshot 2026-05-27 195106" src="https://github.com/user-attachments/assets/b34c3ae3-9b98-4981-a7a8-cc6ab4c58027" />
+<img width="1868" height="739" alt="Screenshot 2026-05-27 195106" src="https://github.com/user-attachments/assets/c5bc89af-ed8b-46f9-9e4a-abb5f5581603" />
+<img width="1868" height="739" alt="Screenshot 2026-05-27 195106" src="https://github.com/user-attachments/assets/350f101f-7d11-417f-a2cd-f4a4e4806513" />
+<img width="1868" height="739" alt="Screenshot 2026-05-27 195106" src="https://github.com/user-attachments/assets/b17bab30-fcc2-4351-99ff-88edceb9cb28" />
 <img width="1868" height="739" alt="Screenshot 2026-05-27 195106" src="https://github.com/user-attachments/assets/38098926-57bc-4830-8c13-00793caaa3ea" />
 
 
