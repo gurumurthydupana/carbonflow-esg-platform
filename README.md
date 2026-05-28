@@ -6,6 +6,12 @@ The project is intentionally practical: simple architecture, clean APIs, and rea
 
 ## Project Overview
 
+Live Frontend:
+https://carbonflow-esg-platform-mu.vercel.app
+
+Live Backend API:
+https://carbonflow-esg-platform-6xgq.onrender.com/api/core/organizations/
+
 - Ingests `SAP`, `Utility`, and `Travel` CSV datasets.
 - Preserves both raw and normalized values for traceability.
 - Detects suspicious records for analyst review.
