@@ -78,11 +78,12 @@ This seeds:
 
 ## Screenshots (Placeholders)
 <img width="1868" height="739" alt="Screenshot 2026-05-27 195106" src="https://github.com/user-attachments/assets/78daf294-a998-4424-906e-21f8b9fd1620" />
-<img width="1868" height="739" alt="Screenshot 2026-05-27 195106" src="https://github.com/user-attachments/assets/b34c3ae3-9b98-4981-a7a8-cc6ab4c58027" />
-<img width="1868" height="739" alt="Screenshot 2026-05-27 195106" src="https://github.com/user-attachments/assets/c5bc89af-ed8b-46f9-9e4a-abb5f5581603" />
-<img width="1868" height="739" alt="Screenshot 2026-05-27 195106" src="https://github.com/user-attachments/assets/350f101f-7d11-417f-a2cd-f4a4e4806513" />
-<img width="1868" height="739" alt="Screenshot 2026-05-27 195106" src="https://github.com/user-attachments/assets/b17bab30-fcc2-4351-99ff-88edceb9cb28" />
-<img width="1868" height="739" alt="Screenshot 2026-05-27 195106" src="https://github.com/user-attachments/assets/38098926-57bc-4830-8c13-00793caaa3ea" />
+<img width="1865" height="774" alt="Screenshot 2026-05-27 183545" src="https://github.com/user-attachments/assets/7dfbc811-a879-45cd-a1ad-34960fd570f1" />
+<img width="1899" height="857" alt="Screenshot 2026-05-27 183533" src="https://github.com/user-attachments/assets/e3aba69d-b8b0-4cf4-8de1-276bf5579216" />
+<img width="1827" height="778" alt="Screenshot 2026-05-27 183839" src="https://github.com/user-attachments/assets/53ac316e-65c1-4b30-9e85-88f440c1ad45" />
+<img width="1807" height="469" alt="Screenshot 2026-05-27 183847" src="https://github.com/user-attachments/assets/30928ad2-a42d-42a3-aeb9-04b0588a0794" />
+<img width="1803" height="526" alt="Screenshot 2026-05-27 183859" src="https://github.com/user-attachments/assets/15f85ec6-7b60-43b1-b67b-082692e54df4" />
+<img width="1869" height="799" alt="Screenshot 2026-05-27 183906" src="https://github.com/user-attachments/assets/2366c0eb-c006-4b42-8820-462029df7720" />
 
 
 - `docs/screenshots/dashboard.png` - Dashboard KPIs and charts
