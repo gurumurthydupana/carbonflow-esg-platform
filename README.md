@@ -78,6 +78,9 @@ This seeds:
 
 ## Screenshots (Placeholders)
 
+<img width="1868" height="739" alt="Screenshot 2026-05-27 195106" src="https://github.com/user-attachments/assets/38098926-57bc-4830-8c13-00793caaa3ea" />
+
+
 - `docs/screenshots/dashboard.png` - Dashboard KPIs and charts
 - `docs/screenshots/upload.png` - CSV upload flow
 - `docs/screenshots/suspicious-records.png` - Flagged records list
