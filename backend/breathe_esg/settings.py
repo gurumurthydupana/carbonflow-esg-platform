@@ -130,4 +130,5 @@ STATIC_URL = "static/"
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
+    "https://carbonflow-esg-platform-navy.vercel.app",
 ]
